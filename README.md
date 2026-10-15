@@ -26,6 +26,7 @@ Features:
 
 Frontend – HTML5, CSS3, Vanilla JavaScript (no frameworks)
 Hardware API – W3C Gamepad API for controller input
+Design - Flat, neo-brutalist with inverted colors 
 
 ## License
 This project is licensed under the GNU General Public License v3.0. See `LICENSE` for details.
